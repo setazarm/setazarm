@@ -20,4 +20,4 @@ I enjoy working with a variety of tools and technologies, including:
 
 ## 🚀 Current Project :
 
-I'm currently working on an app called Memories. It is a social media MERN application that allows users to post interesting events that happened in their lives.
+I'm currently working on a multiplayer game of [UNO](https://github.com/setazarm/UNO)
