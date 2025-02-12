@@ -15,6 +15,3 @@ I enjoy working with a variety of tools and technologies, including:
   
 </p>
 
-## 🚀 Current Project :
-
-I'm currently working on a multiplayer game of [UNO](https://github.com/setazarm/UNO)
