@@ -1,7 +1,5 @@
 # Hi there 👋
 
-I'm Setare, a junior full stack developer. Welcome to my GitHub profile!
-
 ## 🔧 Tools and Languages
 
 I enjoy working with a variety of tools and technologies, including:
